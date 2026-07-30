@@ -15,6 +15,6 @@ A vendor-agnostic reference architecture for governing identity across workforce
 
 ## About
 
-**AI & Identity Security Architect @ Go Cloud Architects**
+**Security Architect @ Go Cloud Architects**
 
 Contact: curtis@igasecurityconsulting.com
